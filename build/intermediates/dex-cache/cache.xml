@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.6.0_6f0a188776a2e474bce37a482c441b2117a7f427.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_0f8f4cad88005f9678c616a72c73460305b9f467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/glide-3.6.1_85bfa18a555b60d12d25c8b5cdf22a2009c64693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_bdd128497f146e8a2a1892bb004293957b56d99b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_cae8921ed09b53b75204d5f16f6cb6d00cf6d983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.0_94f36b909eda2f9057fc050b4b5614afb62c3141.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4e247bc63163ed33afc10db26bc94d64e3ee7acc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_77cbe27e2f20ee284db0c072a459559d8162c5ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_aa878e3752abaf09448836053fe358abd20ba4b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_a40604f83364cfdc2fddd4a511b43f57b3cadaa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_1177b9353a6e531d25613170cfb392fdf1c5c0a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.0_f29e2b3913d482e3ba9477648cc55dbb8c9e1656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_ee0fe5b45513f9e2b18b188c6708bc60d5a32420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_57d7aa8022d03ca74c3b0a2a50ec23c7f18efc59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.0_e997f360e02092c02a335e3c3042b1ba32ee6b8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_6076d33e991a3b718d70523617f1fea5dfcc9861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.0_eda336000525e66fd46cb14f71e8f38a42e2e387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.14.1_c4a83acbf2c3be66b7d22d77564f93b2d13eacca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.0_507841dbfa4f0f453beaf08481285d4dc78bf59b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.0_2e04f4a457b8a96b2a11f53e27e03a166ea576dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.0_c6f696e19efa55f1a86c856d6bbc3ef57a2834ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_15ff97326a0880e71f4c9f48848db8b157350ae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_adab70949f06f0828b925f59212bb706b0167edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.0_405892b3fede219dd549c9288fdae4cbe7b1aaf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_78bb4ed902f1e0951f82096ee4bfaed41564d110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.0_91df8a32fcd1570c2097b2fa9ba3b8ab7bb318f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.0_f57da98b07e66c55c4e6f69600c1fb172c36fdac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-auth-0.6.0_0d25ca9e58a65c4cdfc44a49f23ed8236aa81e3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.0_69750c9738c9862f37fe59592b18014e78261c3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d62dc38070c82f63c06b713e5c7312319b60b917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_7b844fcf0d7c46f3918b2b215c6a9b0364eec912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_5bf3889e7a0e3c5e78d4363511bbc176b820ef90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.0_88c224a80773288a98d9168f2d9b70d73ae9d495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_bce10ab6dee1291c21175aa2a16904e974f0afdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.0_f8a346202c5f98d8a5375994beaddcbfa2a532d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.0_abbb4611b3b74bb27abffbb0c5c774d840b97fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_d82fef083071ae822e728d1d9e1e3c8b828af829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.0_7f91a22f3d7ecbc95941d653528f229e74795ece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.0_aa22048cb23c147cae8ea2737f45e8625343b54c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_0553989397ff8d32f8e882115a36ea9fd84bc5a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.6.0_ac3177a30b8e90cb5bf153cb01494b2226717a47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_937e639f202e78711155538f16b1a6af393efb6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/home/vignesh/Android/projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.6.0_959d205a177aa356279ba53a371a6736c81b08d8.jar" />
+    </item>
+
+</items>
