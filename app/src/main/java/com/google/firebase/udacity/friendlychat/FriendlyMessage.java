@@ -6,7 +6,8 @@ public class FriendlyMessage {
     private String text;
     private String name;
     private String photoUrl;
-
+    private String sample;
+    
     public FriendlyMessage() {
     }
 
